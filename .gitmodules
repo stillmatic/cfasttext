@@ -1,3 +1,4 @@
 [submodule "fasttext"]
 	path = fasttext
-	url = https://github.com/facebookresearch/fastText.git
+	url = https://github.com/messense/fastText.git
+	branch = apple-m1
